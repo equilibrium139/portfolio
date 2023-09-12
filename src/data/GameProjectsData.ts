@@ -66,7 +66,7 @@ export default [
         <img class="pc-screenshot" src="img/anim_view_edit.png" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Software Rasterizer", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Software Rasterizer", "img/softwareRasterizer.gif", `
     <div class="paragraph">
     This software rasterizer was a great learning experience. No graphics API. Just C++ and the ability to manipulate pixels on a window.
     <br />

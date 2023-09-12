@@ -30,7 +30,8 @@ export default Vue.extend({
 Helpers.preloadImages([
   "img/anim_view.gif",
   "img/depthcaster.gif",
-  "img/gltfViewer.gif"
+  "img/gltfViewer.gif",
+  "img/softwareRasterizer.gif"
 ]);
 
 </script>
