@@ -4,13 +4,17 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Zaid Al-ruwaishan</strong>, a computer science graduate from OSU, and a hobbyist graphics programmer and game developer.<br /><br />
+        My passion for playing games like Age of Empires 2, Fallout: New Vegas, and The Witcher 3 led me to game development. My goal is to work on
+        memorable games like these that other players can enjoy. <br /><br />
+        I started out using the Unity engine to develop games, which made me curious how Unity works. This curiosity led me towards engine 
+        programming, and the most exciting aspect of engine programming for me was graphics. How can a screen, a 2D grid of pixels, come to life 
+        and give us a window into a 3D world? I've been exploring this question for years through textbooks, university courses, and projects. <br /><br />
+        A mix of theoretical and practical work was necessary to gain a better understanding of computer graphics, but the most satisfying part was
+        creating projects. I could finally take the theoretical knowledge I had learned, and write a program that gave me instant feedback. 
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
-
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 20px;">Check out my <router-link to="/game-projects">projects</router-link>, or reach out to me <router-link to="/contact">here</router-link>.</div>
     </div>
 
     <div class="photo">
