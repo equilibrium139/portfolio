@@ -31,7 +31,8 @@ Helpers.preloadImages([
   "img/anim_view.gif",
   "img/depthcaster.gif",
   "img/gltfViewer.gif",
-  "img/softwareRasterizer.gif"
+  "img/softwareRasterizer.gif",
+  "img/portrait.png"
 ]);
 
 </script>
